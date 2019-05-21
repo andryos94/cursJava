@@ -38,4 +38,3 @@ public class Person extends Object {
     // fielduri, metode, constructor
 
 }
-

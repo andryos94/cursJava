@@ -13,26 +13,27 @@ public class Main2 {
 
                 "vasile",
                 11111);
-        Vehicle vehicle = new
-                Vehicle(owner);
+        Vehicle vehicle = new Vehicle(owner);
+        System.out.println(owner);
+        System.out.println(vehicle);
 //
-//        Person cata = new Person("alin", "cata", 22222);
-//        Vehicle anotherVehicle = new Vehicle(cata);
+       Person cata = new Person("alin", "cata", 22222);
+       Vehicle anotherVehicle = new Vehicle(cata);
+        System.out.println(cata);
+        System.out.println(anotherVehicle);
 //
 //
-//
-//        System.out.println(Vehicle.getCounter()); // 1
-//        System.out.println(Vehicle.getCounter()); //1
+        System.out.println(Vehicle.getCounter()); // 1
+        System.out.println(Vehicle.getCounter()); //1
 
 //        Vehicle vehicle;
 
         Calcule.suma(2, 3);
 
-        System.out.println(
-                Vehicle.getCounter());
+ //       System.out.println(Vehicle.getCounter());
 
-//        System.out.println(vehicle.getUniqueId()); // 1
-//        System.out.println(anotherVehicle.getUniqueId()); // 2
+        System.out.println(vehicle.getUniqueId()); // 1
+        System.out.println(anotherVehicle.getUniqueId()); // 2
     }
 
 }

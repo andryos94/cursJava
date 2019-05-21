@@ -46,7 +46,7 @@ public class Vehicle  {
     }
 
     public static int getCounter() {
-//        System.out.println(this.uniqueId);
+ //       System.out.println(this.uniqueId);
         return counter;
     }
 

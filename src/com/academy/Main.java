@@ -8,22 +8,23 @@ import java.util.Arrays;
 public class Main {
 
     public static void main(String[] args) {
-        Person person = new Person();
+//        Person person = new Person();
 
-        Student student = new Student("Ciungulescu",
-                "Alex",
-                 "poli",
-                188213,
-                1);
-        System.out.println(student.toString());
-        Student catalin = new Student("fara");
-        System.out.println(catalin.toString());
+//        Student student = new Student("Ciungulescu",
+//                "Alex",
+//                 "poli",
+//                188213,
+//                1);
+//
+//        Student catalin = new Student("fara");
+
+//        Student student = new Student();
 
 //        int suma = student.calculateSum(1, 2);
 //
-//       System.out.println(suma);
+////        System.out.println(suma);
 //
-//       int sumaArray = student.calculateSum(new int[]{1, 2});
+//        int sumaArray = student.calculateSum(new int[]{1, 2});
 //
 //        int[] array = new int[]{1, 2, 3};
 //
@@ -46,31 +47,31 @@ public class Main {
 
 //        int x = 10;
 //        schimbaVariabila(x);
-////
+//
 //        System.out.println(x);
-//
-//
+
+
 //        int[] array = new int[]{1, 2, 3};
 //        schimbaVariabila(array);
 //        System.out.println(Arrays.toString(array));
 //
 //        array = new int[]{30, 30, 30};
 //        System.out.println(Arrays.toString(array));
-//    }
-//
-//    public static void schimbaVariabila(int[] array) {
-//        array[0] = 10;
-//        array[1] = 10;
-//        array[2] = 10;
-//        array = new int[]{20, 20, 20};
-//        System.out.println(Arrays.toString(array));
-//    }
-//
-//
-//    public static void schimbaVariabila(int newx) {
-//        System.out.println(newx);
-//        newx = 20;
     }
+
+    public static void schimbaVariabila(int[] array) {
+        array[0] = 10;
+        array[1] = 10;
+        array[2] = 10;
+        array = new int[]{20, 20, 20};
+        System.out.println(Arrays.toString(array));
+    }
+
+
+//    public static void schimbaVariabila(int newx) {
+//        System.out.println(x);
+//        newx = 20;
+//    }
 
 
 
