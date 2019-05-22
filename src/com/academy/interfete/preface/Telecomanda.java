@@ -2,9 +2,9 @@ package com.academy.interfete.preface;
 
 public class Telecomanda {
 
-    private Masina masina;
+    private Masina masina;///referinta la masina
 
-    public Telecomanda(Masina masina) {
+    public Telecomanda(Masina masina) {//distrug constructorul default
         this.masina = masina;
     }
 

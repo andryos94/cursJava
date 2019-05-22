@@ -8,4 +8,8 @@ public class MasinaDeTest implements RemoteControlled {
     public void mergiInapoi() {
         System.out.println("Masina Test Inapoi");
     }
+
+    public void vireazaStanga() {
+        System.out.println("MasinaTest Vireaza Stanga");
+    }
 }

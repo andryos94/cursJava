@@ -11,6 +11,10 @@ public class Masina implements RemoteControlled
 
     }
 
+    public void vireazaStanga() {
+        System.out.println("Masina Adevarata Stanga");
+    }
+
     //dureaza 3 luni
 
 }

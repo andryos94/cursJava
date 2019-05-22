@@ -2,17 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f618ee68-3d4f-4fca-a18e-8e45684c8a79" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cursJava/com/academy/Bicicleta.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cursJava/com/academy/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/cursJava/com/academy/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cursJava/com/academy/Main2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/cursJava/com/academy/Main2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/academy/Bicicleta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/academy/Bicicleta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/academy/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/academy/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/academy/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/academy/Main2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/academy/people/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/academy/people/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/academy/vehicule/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/academy/vehicule/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/academy/interfete/preface/Telecomanda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/academy/interfete/preface/Telecomanda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/academy/interfete/solutie/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/academy/interfete/solutie/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/academy/interfete/solutie/Masina.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/academy/interfete/solutie/Masina.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/academy/interfete/solutie/MasinaDeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/academy/interfete/solutie/MasinaDeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/academy/interfete/solutie/RemoteControlled.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/academy/interfete/solutie/RemoteControlled.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/academy/interfete/solutie/Telecomanda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/academy/interfete/solutie/Telecomanda.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,79 +23,51 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/academy/cnst/EnumExamples.java">
+        <entry file="file://$PROJECT_DIR$/src/com/academie/contribuabili/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
-              <folding>
-                <element signature="e#298#299#0" expanded="true" />
-                <element signature="e#334#335#0" expanded="true" />
-                <element signature="e#373#374#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="34">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/academy/interfete/preface/App.java">
+        <entry file="file://$PROJECT_DIR$/src/com/academie/contribuabili/Contribuabil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="38" selection-start-column="38" selection-end-column="38" />
+            <state relative-caret-position="221">
+              <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/academy/interfete/preface/Masina.java">
+        <entry file="file://$PROJECT_DIR$/src/com/academie/contribuabili/ContribuabilTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+            <state relative-caret-position="476">
+              <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
               <folding>
-                <element signature="e#94#95#0" expanded="true" />
-                <element signature="e#155#156#0" expanded="true" />
-                <element signature="e#188#189#0" expanded="true" />
-                <element signature="e#248#249#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/academy/interfete/preface/Telecomanda.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-              <folding>
-                <element signature="e#134#135#0" expanded="true" />
-                <element signature="e#170#171#0" expanded="true" />
+                <element signature="e#261#262#0" expanded="true" />
+                <element signature="e#286#287#0" expanded="true" />
+                <element signature="e#321#322#0" expanded="true" />
+                <element signature="e#345#346#0" expanded="true" />
+                <element signature="e#383#384#0" expanded="true" />
+                <element signature="e#407#408#0" expanded="true" />
+                <element signature="e#447#448#0" expanded="true" />
+                <element signature="e#471#472#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/academy/interfete/solutie/App.java">
+        <entry file="file://$PROJECT_DIR$/src/com/academie/contribuabili/Registru.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/academy/cnst/Month.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/academy/cnst/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            <state relative-caret-position="697">
+              <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+              <folding>
+                <element signature="e#842#843#0" expanded="true" />
+                <element signature="e#872#873#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -136,6 +104,13 @@
         <option value="$PROJECT_DIR$/src/com/academy/interfete/preface/Masina.java" />
         <option value="$PROJECT_DIR$/src/com/academy/interfete/preface/Telecomanda.java" />
         <option value="$PROJECT_DIR$/src/com/academy/interfete/solutie/App.java" />
+        <option value="$PROJECT_DIR$/src/com/academy/interfete/solutie/Masina.java" />
+        <option value="$PROJECT_DIR$/src/com/academy/interfete/solutie/MasinaDeTest.java" />
+        <option value="$PROJECT_DIR$/src/com/academy/interfete/solutie/RemoteControlled.java" />
+        <option value="$PROJECT_DIR$/src/com/academy/interfete/solutie/Telecomanda.java" />
+        <option value="$PROJECT_DIR$/src/com/academie/contribuabili/Contribuabil.java" />
+        <option value="$PROJECT_DIR$/src/com/academie/contribuabili/ContribuabilTest.java" />
+        <option value="$PROJECT_DIR$/src/com/academie/contribuabili/Registru.java" />
       </list>
     </option>
   </component>
@@ -151,8 +126,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -169,51 +144,14 @@
               <item name="cursJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="cursJava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="academy" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cursJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="cursJava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="academy" type="462c0819:PsiDirectoryNode" />
-              <item name="cnst" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cursJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cursJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="academy" type="462c0819:PsiDirectoryNode" />
-              <item name="interfete" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cursJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cursJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="academy" type="462c0819:PsiDirectoryNode" />
-              <item name="interfete" type="462c0819:PsiDirectoryNode" />
-              <item name="preface" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cursJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cursJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="academy" type="462c0819:PsiDirectoryNode" />
-              <item name="interfete" type="462c0819:PsiDirectoryNode" />
-              <item name="solutie" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cursJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cursJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="academy" type="462c0819:PsiDirectoryNode" />
-              <item name="people" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cursJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cursJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="academy" type="462c0819:PsiDirectoryNode" />
-              <item name="vehicule" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="contribuabili" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -236,7 +174,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.EnumExamples">
+  <component name="RunManager" selected="Application.App (1)">
+    <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.academy.interfete.solutie.App" />
+      <module name="cursJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.academy.interfete.solutie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.academy.interfete.preface.App" />
+      <module name="cursJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.academy.interfete.preface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EnumExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.academy.cnst.EnumExamples" />
       <module name="cursJava" />
@@ -278,6 +242,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.App (1)" />
+        <item itemvalue="Application.App" />
         <item itemvalue="Application.EnumExamples" />
         <item itemvalue="Application.Main2" />
         <item itemvalue="Application.Main" />
@@ -301,7 +267,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2751678" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28322148" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -310,7 +276,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -455,15 +421,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/academy/interfete/preface/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="38" selection-start-column="38" selection-end-column="38" />
+        <state relative-caret-position="102">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/academy/interfete/preface/Masina.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        <state relative-caret-position="153">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="22" />
           <folding>
             <element signature="e#94#95#0" expanded="true" />
             <element signature="e#155#156#0" expanded="true" />
@@ -475,8 +441,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/academy/interfete/preface/Telecomanda.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="154">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
           <folding>
             <element signature="e#134#135#0" expanded="true" />
             <element signature="e#170#171#0" expanded="true" />
@@ -484,10 +450,98 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/academy/interfete/solutie/Masina.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+          <folding>
+            <element signature="e#121#122#0" expanded="true" />
+            <element signature="e#183#184#0" expanded="true" />
+            <element signature="e#313#314#0" expanded="true" />
+            <element signature="e#374#375#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/academy/interfete/solutie/Telecomanda.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/academy/interfete/solutie/App.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/academy/interfete/solutie/MasinaDeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <element signature="e#127#128#0" expanded="true" />
+            <element signature="e#184#185#0" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
+            <element signature="e#273#274#0" expanded="true" />
+            <element signature="e#308#309#0" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/academy/interfete/solutie/RemoteControlled.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="35" lean-forward="true" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+          <folding>
+            <element signature="e#231#232#0" expanded="true" />
+            <element signature="e#259#260#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/academie/contribuabili/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/academie/contribuabili/Contribuabil.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/academie/contribuabili/ContribuabilTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+          <folding>
+            <element signature="e#261#262#0" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
+            <element signature="e#345#346#0" expanded="true" />
+            <element signature="e#383#384#0" expanded="true" />
+            <element signature="e#407#408#0" expanded="true" />
+            <element signature="e#447#448#0" expanded="true" />
+            <element signature="e#471#472#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/academie/contribuabili/Registru.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+          <folding>
+            <element signature="e#842#843#0" expanded="true" />
+            <element signature="e#872#873#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

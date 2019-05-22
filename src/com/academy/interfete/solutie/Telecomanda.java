@@ -1,5 +1,6 @@
 package com.academy.interfete.solutie;
 
+
 public class Telecomanda {
 
     private RemoteControlled remoteControlled;
